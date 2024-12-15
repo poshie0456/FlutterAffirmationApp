@@ -1,6 +1,6 @@
-# PositiveMe - Mental Wellness App with AI Affirmations
+# FlutterAffirmationApp - Mental Wellness App with AI Affirmations
 
-Welcome to **PositiveMe**, your personal mental wellness companion powered by AI! PositiveMe uses advanced APIs to provide you with uplifting affirmations, soothing speech, and a personalized experience that empowers you to boost your self-love, confidence, and positivity.
+Welcome to **FlutterAffirmationApp**, your personal mental wellness companion powered by AI! FlutterAffirmationApp uses advanced APIs to provide you with uplifting affirmations, soothing speech, and a personalized experience that empowers you to boost your self-love, confidence, and positivity.
 
 ## Features
 
@@ -10,12 +10,12 @@ Welcome to **PositiveMe**, your personal mental wellness companion powered by AI
 - **Local Storage**: Stores user diary entries and affirmation history locally for quick access and personalized experiences.
 - **Audio Player Integration**: Plays affirmation audio for users to listen to anywhere.
 - **Video Player Integration**: Can be used to embed motivational videos or calming visuals.
-- **Mirror-like Interaction**: PositiveMe AI acts like a virtual mirror, offering affirmations directly to the user in real time.
+- **Mirror-like Interaction**: FlutterAffirmationApp AI acts like a virtual mirror, offering affirmations directly to the user in real time.
 - **Onboarding Screens**: Guide the user through the app’s features and help personalize their experience.
 
 ## App Overview
 
-PositiveMe is designed to enhance your mental wellness through daily affirmations. Users can interact with the app in a mirror-like manner, where the AI engages directly with them, offering positive affirmations and guidance for mental well-being. The app uses **Generative Language API** to generate personalized affirmations, which are then converted to speech using the **Eleven Labs API**.
+FlutterAffirmationApp is designed to enhance your mental wellness through daily affirmations. Users can interact with the app in a mirror-like manner, where the AI engages directly with them, offering positive affirmations and guidance for mental well-being. The app uses **Generative Language API** to generate personalized affirmations, which are then converted to speech using the **Eleven Labs API**.
 
 ### Key Features
 
@@ -41,7 +41,7 @@ PositiveMe is designed to enhance your mental wellness through daily affirmation
 
 ## UI Design
 
-The **UI** of PositiveMe is built with simplicity and ease of use in mind. The design is minimalistic yet vibrant, featuring a **cartoon-style background** with calming colors to enhance the wellness experience.
+The **UI** of FlutterAffirmationApp is built with simplicity and ease of use in mind. The design is minimalistic yet vibrant, featuring a **cartoon-style background** with calming colors to enhance the wellness experience.
 
 - **Main Screen**: Displays a virtual mirror-like interface where users can interact with the AI.
 - **Affirmation Screen**: Shows the affirmation text
@@ -65,20 +65,20 @@ The **UI** of PositiveMe is built with simplicity and ease of use in mind. The d
 
 ## Local Storage
 
-PositiveMe stores key data on the device itself for a more personalized experience:
+FlutterAffirmationApp stores key data on the device itself for a more personalized experience:
 - **Diary Entries**: Write your daily reflections and affirmations, which are securely stored locally.
   
 **Note**: All data is stored using local storage mechanisms provided by Flutter’s `path_provider` package.
 
 ## Responsive Design
 
-PositiveMe is designed to work seamlessly across different screen sizes.=
+FlutterAffirmationApp is designed to work seamlessly across different screen sizes.=
 
 
 
 ## Video Demo
 
-Below is a video demo showcasing the full functionality of **PositiveMe**. See how it integrates with APIs, the text-to-speech functionality, the soothing affirmations, onboarding screens, and more.
+Below is a video demo showcasing the full functionality of **FlutterAffirmationApp**. See how it integrates with APIs, the text-to-speech functionality, the soothing affirmations, onboarding screens, and more.
 
 
 
